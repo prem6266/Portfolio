@@ -27,7 +27,7 @@ export const menuItems = [
 export const resume = [
   {
     label: "Resume",
-    href: "https://drive.google.com/file/d/1AdsOM1OwPOpDrhG6yXGCwgH602qzMc_J/view?usp=sharing",
+    href: "https://drive.google.com/file/d/1Oi91TdcVeubbltDOheeBIvfkZvDjmenj/view?usp=sharing",
   },
 ];
 export const technologies = [
